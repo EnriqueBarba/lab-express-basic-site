@@ -1,0 +1,32 @@
+body{
+    background: #FCB0F9;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: lime;
+    font-size: 1.5rem;
+}
+
+h1, h2 {
+    color: lime;
+}
+
+.container{
+    display:flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.button{
+    margin: 5%;
+    padding: 3%;
+    background: #9FF5F7;
+    border-radius: 20px;;
+}
+
+.box {
+    width: 50%;
+}
+
